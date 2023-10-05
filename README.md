@@ -5,4 +5,4 @@ docker-compose down
 docker-compose up -d
 
 
-checking webhook
+checking webhook for jenkins
